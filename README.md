@@ -10,5 +10,5 @@ I PC delle due reti non si raggiungevano con i ping perché non erano stati conf
 
 ### Quale protocollo viene utilizzato dal comando ping?
 
-Il comando ping utilizza il protocollo ICMP **” Internet Control Message Protocol ” **per inviare un messaggio di ping da un host a un altro. Il messaggio ICMP contiene un codice di stato che indica se l'host di destinazione ha ricevuto il messaggio di ping. Se l'host di destinazione riceve il messaggio, invia un messaggio ICMP di risposta al host che ha inviato il messaggio di ping.
+Il comando ping utilizza il protocollo ICMP ** ” Internet Control Message Protocol ” **per inviare un messaggio di ping da un host a un altro. Il messaggio ICMP contiene un codice di stato che indica se l'host di destinazione ha ricevuto il messaggio di ping. Se l'host di destinazione riceve il messaggio, invia un messaggio ICMP di risposta al host che ha inviato il messaggio di ping.
 
